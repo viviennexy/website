@@ -1,0 +1,135 @@
+<html>
+
+<head>
+
+<title>HOME OF VIVIENNE</title>
+
+</head>
+
+<style>
+   body {
+      padding:60px; 
+      background-image:url(b9.jpg);
+   }
+   h1 {
+      text-align:center; 
+      font-family:ºÚÌå;
+      font-size:50px;
+   }
+   h2 {
+      font-family:ºÚÌå; 
+      text-indent:20px;
+   }
+   gray-text {
+      color:gray;
+      font-size:20px;
+
+   }
+  
+   div.img
+  {
+  margin:40px;
+  border:1px solid #bebebe;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+   div.img img
+  {
+  display:inline;
+  margin:5px;
+  border:1px solid #bebebe;
+  }
+   div.img a:hover img
+  {
+  border:1px solid #333333;
+  }
+div.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:150px;
+  font-size:20px;
+  margin:10px 5px 10px 5px;
+   
+</style>
+
+
+
+<h1>HOME OF VIVIENNE</h1>
+
+<h2>RECOMMENT</h2>
+
+	
+<div class="img">
+  <a target="_blank" href="c1.jpg">
+  <img src="c1.jpg" atl="µ°¸â" width="300" height="300" >
+  </a>
+<div class="desc">cake1</div>	
+</div>
+
+	
+<div class="img">
+  <a target="_blank" href="c2.jpg">
+  <IMG SRC="c2.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake2</div>	
+</div>
+	
+	
+<div class="img">
+  <a target="_blank" href="c3.jpg">
+  <IMG SRC="c3.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake3</div>	
+</div>
+	
+	
+<div class="img">
+  <a target="_blank" href="c4.jpg">
+  <IMG SRC="c4.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake4</div>	
+</div>
+
+<div class="img">
+  <a target="_blank" href="c4.jpg">
+  <IMG SRC="c5.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake5</div>	
+</div>
+
+<div class="img">
+  <a target="_blank" href="c4.jpg">
+  <IMG SRC="c6.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake6</div>	
+</div>
+
+<div class="img">
+  <a target="_blank" href="c4.jpg">
+  <IMG SRC="c7.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake7</div>	
+</div>
+
+<div class="img">
+  <a target="_blank" href="c4.jpg">
+  <IMG SRC="c8.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake8</div>	
+</div>
+
+<div class="img">
+  <a target="_blank" href="c4.jpg">
+  <IMG SRC="c9.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
+  </a>
+<div class="desc">cake9</div>	
+</div>
+</div>
+
+
+</BODY>
+
+</HTML>
