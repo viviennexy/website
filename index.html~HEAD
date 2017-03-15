@@ -2,7 +2,7 @@
 
 <head>
 
-<title>HOME OF VIVIENNE</title>
+<title>HOME OF NANCY</title>
 
 </head>
 
@@ -19,9 +19,10 @@
    h2 {
       font-family:ºÚÌå; 
       text-indent:20px;
+      padding-left:60px;
    }
-   gray-text {
-      color:gray;
+   .txt-text {
+      color:black;
       font-size:20px;
 
    }
@@ -63,8 +64,8 @@ div.desc
 
 	
 <div class="img">
-  <a target="_blank" href="c1.jpg">
-  <img src="c1.jpg" atl="µ°¸â" width="300" height="300" >
+  <a target="_blank" href="/Users/hp/Desktop/website/c1.html">
+  <img src="c52.jpg" atl="µ°¸â" width="300" height="300" >
   </a>
 <div class="desc">cake1</div>	
 </div>
@@ -94,35 +95,35 @@ div.desc
 </div>
 
 <div class="img">
-  <a target="_blank" href="c4.jpg">
+  <a target="_blank" href="c5.jpg">
   <IMG SRC="c5.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
   </a>
 <div class="desc">cake5</div>	
 </div>
 
 <div class="img">
-  <a target="_blank" href="c4.jpg">
+  <a target="_blank" href="c6.jpg">
   <IMG SRC="c6.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
   </a>
 <div class="desc">cake6</div>	
 </div>
 
 <div class="img">
-  <a target="_blank" href="c4.jpg">
+  <a target="_blank" href="c7.jpg">
   <IMG SRC="c7.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
   </a>
 <div class="desc">cake7</div>	
 </div>
 
 <div class="img">
-  <a target="_blank" href="c4.jpg">
+  <a target="_blank" href="c8.jpg">
   <IMG SRC="c8.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
   </a>
 <div class="desc">cake8</div>	
 </div>
 
 <div class="img">
-  <a target="_blank" href="c4.jpg">
+  <a target="_blank" href="c9.jpg">
   <IMG SRC="c9.jpg" ATL="µ°¸â" WIDTH="300" HEIGHT="300" >
   </a>
 <div class="desc">cake9</div>	
